@@ -1,4 +1,4 @@
-# ⚡ Quick Start - Redis Setup for Windows
+## ⚡ Quick Start - Redis Setup for Windows
 
 You have Redis Insight installed, but you need the Redis server itself.
 
