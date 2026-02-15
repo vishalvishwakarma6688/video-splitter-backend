@@ -4,7 +4,7 @@ You have Redis Insight installed, but you need the Redis server itself.
 
 ## 🚀 Fastest Method: Download Redis for Windows
 
-### Option 1: Direct Download (Recommended)
+## Option 1: Direct Download (Recommended)
 
 1. **Download Redis for Windows:**
    - Go to: https://github.com/tporadowski/redis/releases
